@@ -9,6 +9,6 @@
     "description": "Web graph implementation by test1js",
     "repository": {
     "type": "git", 
-    "url": "git://github.com/tangfang/test1.git",
+    "url": "git://github.com/tangfang/test1.git"
     }
 }
