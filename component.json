@@ -1,0 +1,14 @@
+{
+    "name": "test1",
+    "version": "1.0.0",
+    "main": [
+    ],
+    "dependencies": {},
+    "readmeFilename": "README.md",
+    "_id": "test1@1.0.0",
+    "description": "Web graph implementation by test1js",
+    "repository": {
+    "type": "git", www.jb51.net
+    "url": "git://github.com/tangfang/test1.git",
+    }
+}
