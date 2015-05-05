@@ -1,0 +1,23 @@
+{
+  "name": "test1",
+  "version": "1.0.0",
+  "authors": [
+    "Ton"
+  ],
+  "description": "The smallest test framework evermade for node and the browser.",
+  "main": "test1.js",
+  "keywords": [
+    "test1",
+    "test",
+    "specs",
+    "tdd",
+    "bdd"
+  ],
+  "license": "MIT",
+  "homepage": "3den,org",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ]
+}
