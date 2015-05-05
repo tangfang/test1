@@ -8,7 +8,7 @@
     "_id": "test1@1.0.0",
     "description": "Web graph implementation by test1js",
     "repository": {
-    "type": "git", www.jb51.net
+    "type": "git", 
     "url": "git://github.com/tangfang/test1.git",
     }
 }
